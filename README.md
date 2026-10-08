@@ -1,6 +1,6 @@
-[README (2).md](https://github.com/user-attachments/files/33181949/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/33182037/README.3.md)
 <p align="center">
-  <img src="https://media.giphy.com/media/IblYCLsWpFZAkN0e7V/giphy.gif" width="100%" alt="sad rainy day" />
+  <img src="https://media.giphy.com/media/FB5EOw0CaaQM0/giphy.gif" width="100%" alt="alone on a swing in the rain" />
 </p>
 
 <h1 align="center">uglygravesoldier</h1>
@@ -62,10 +62,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=uglygravesoldier&hide_border=true&background=0d1117&ring=6a5acd&fire=b19cd9&currStreakLabel=b19cd9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=666699" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uglygravesoldier&bg_color=0d1117&color=b19cd9&line=6a5acd&point=ffffff&area=true&area_color=3a3a5c&hide_border=true&custom_title=activity%20(between%20breakdowns)" />
 </p>
 
 ---
