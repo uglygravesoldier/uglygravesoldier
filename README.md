@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/33182037/README.3.md)
 <p align="center">
   <img src="https://media.giphy.com/media/FB5EOw0CaaQM0/giphy.gif" width="100%" alt="alone on a swing in the rain" />
 </p>
