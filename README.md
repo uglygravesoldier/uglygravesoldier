@@ -1,5 +1,6 @@
+[README (4).md](https://github.com/user-attachments/files/33182136/README.4.md)
 <p align="center">
-  <img src="[[https://media.giphy.com/media/FB5EOw0CaaQM0/giphy.gif](https://giphy.com/gifs/oreki-houtarou-kXdo4BgGoFC80)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjbzNvamxob3BjeHcyMWVhN2x3cThyc2c0dzN2emJ0NHltZXlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXdo4BgGoFC80/giphy.gif)" width="100%" alt="alone on a swing in the rain" />
+  <img src="https://media.giphy.com/media/kXdo4BgGoFC80/giphy.gif" width="100%" alt="oreki houtarou" />
 </p>
 
 <h1 align="center">uglygravesoldier</h1>
