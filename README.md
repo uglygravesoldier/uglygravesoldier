@@ -1,32 +1,49 @@
-[README (1).md](https://github.com/user-attachments/files/33181752/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/33181949/README.2.md)
 <p align="center">
   <img src="https://media.giphy.com/media/IblYCLsWpFZAkN0e7V/giphy.gif" width="100%" alt="sad rainy day" />
 </p>
 
 <h1 align="center">uglygravesoldier</h1>
 
-<p align="center"><i>just another tired soul writing code at 4am</i></p>
+<p align="center">
+  <i>a quiet ghost behind the screen</i><br />
+  <sub>writing code at 4am because sleep never comes anyway</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <i>
+    i don't build things to be seen.<br />
+    i build them so the silence has something to listen to.<br />
+    small tools, broken scripts, web apps nobody asked for -<br />
+    pieces of me left in repositories no one will ever open.
+  </i>
+</p>
 
 ---
 
 ### about me
 
 ```txt
-> name:      uglygravesoldier
-> status:    alive (technically)
-> mood:      404 - motivation not found
-> fuel:      energy drinks and sad lofi
-> hobby:     small tools, scripts and web apps
+> name:       uglygravesoldier
+> status:     still here. for now.
+> mood:       [ ██░░░░░░░░ ] 12% and falling
+> fuel:       cold coffee, rain sounds, sad lofi
+> sleep:      deprecated
+> hobby:      small tools, scripts and web apps
+> purpose:    loading...
 ```
 
-- I build my own projects because there is nothing else to do
-- I like minimalism, dark themes and silence
-- currently trying to finish at least one side project
-- fun fact: all my commits are `fix`, `fix 2`, `final fix`, `final final fix`
+- I build my own projects, because it is the only thing that still feels real
+- I like minimalism, dark themes, empty rooms and silence
+- I don't talk much. my commits do it for me
 
 ---
 
 ### stack
+
+<p align="center"><sub><i>the only things that never left me</i></sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,git,github,linux,bash,vscode&theme=dark&perline=6" />
@@ -59,4 +76,8 @@
 
 <p align="center">
   <i>"even if the world feels empty, i'll keep pushing commits."</i>
+</p>
+
+<p align="center">
+  <sub><i>if you made it this far - thank you for noticing me.</i></sub>
 </p>
