@@ -1,4 +1,3 @@
-[README (4).md](https://github.com/user-attachments/files/33182136/README.4.md)
 <p align="center">
   <img src="https://media.giphy.com/media/kXdo4BgGoFC80/giphy.gif" width="100%" alt="oreki houtarou" />
 </p>
@@ -34,11 +33,6 @@
 > hobby:      small tools, scripts and web apps
 > purpose:    loading...
 ```
-
-- I build my own projects, because it is the only thing that still feels real
-- I like minimalism, dark themes, empty rooms and silence
-- I don't talk much. my commits do it for me
-
 ---
 
 ### stack
